@@ -1,5 +1,5 @@
 # Iris-Species-Prediction
-Using Unsupervised Machine Learning Algorithm (k-means clustering) to classify data each flower to its relative species (Setosa,  Versicolor, Virginica)
+Using Unsupervised Machine Learning Algorithm (k-means clustering) to classify each Iris flower to its relative species (Setosa,  Versicolor, Virginica)
 
 ## Features Distribution Plot
 
